@@ -1,5 +1,5 @@
 const CACHE_NAME = "MOVIE_MASTER_V1";
-const DB_NAME = "MovieMaster";
+const DB_NAME = "NoteAI";
 const DB_VERSION = 1;
 const DB_STORE_NAME = "myStore";
 
